@@ -1,0 +1,17 @@
+Package: awra2020spatial
+Type: Package
+Title: Data package for AWRA 2020 spatial workshop
+Version: 0.1.0
+Authors@R: c(
+    person("Marc", "Weber", email="mweber36@gmail.com", role = c("aut", "cre"))
+    )
+Maintainer: Marc Weber <mweber36@gmail.com>
+Description: Data package for the AWRA 2020 spring workshop
+    R spatial workshop.
+License: GPL (>= 3)
+Depends:
+    R (>= 3.1.0)
+Remotes: yonghah/esri2sf
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
