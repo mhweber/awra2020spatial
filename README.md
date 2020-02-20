@@ -14,6 +14,7 @@ library(awra2020spatial)
 
 ## Use
 ```
+library(sf)
 data(package = "awra2020spatial")
 data(bike_paths)
 data(parks)
