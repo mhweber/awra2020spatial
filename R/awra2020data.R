@@ -21,3 +21,9 @@ NULL
 #' @source \url{https://services.arcgis.com/0L95CJ0VTaxqcmED/arcgis/rest/services/BOUNDARIES_city_of_austin_parks/FeatureServer/0}
 #' @format An sf data frame of 304 observations and 56 variables
 "parks"
+
+#' PNW states - Pacific Northwest states in custom Alber projection
+#'
+#' @source USAboundaries package
+#' @format An sf data frame of Oregon, Idaho, and Washington
+"pnw"
