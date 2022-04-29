@@ -7,7 +7,7 @@ This package provides some example R datasets for demonstration purposes for the
 ## Installation
 You can install awra2020spatial from Github:
 ```
-library(devtools)
+library(remotes)
 install_github("mhweber/awra2020spatial")
 library(awra2020spatial)
 ```
